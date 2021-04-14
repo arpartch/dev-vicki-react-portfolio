@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { white } from '@carbon/colors'
+//import { white } from '@carbon/colors'
 
 export const ProjectItem = styled.li`
   margin-top: 1rem;
